@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/misha/.vim'
+let g:netrw_dirhist_2='/Users/Misha/Documents/c_examples/homework'
+let g:netrw_dirhist_3='/Users/Misha/.config'
